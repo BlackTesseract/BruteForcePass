@@ -23,4 +23,4 @@ options:
 
 ## Credits
 
-Thanks to @SpotlightForBugs who prvided the lists of pre- and suffixes.
+Thanks to @SpotlightForBugs who provided the lists of pre- and suffixes.
