@@ -1,6 +1,6 @@
 # BruteForcePass
 
-Creates Password based on arguments and default pre- and suffixes
+Creates Password based on arguments and default pre- and suffixes.
 
 ## Warning
 Due to the nature of this script, it is not recommended to use it on a production system.
