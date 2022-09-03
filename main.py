@@ -105,6 +105,6 @@ def generate_pass():
 
 
 
-
-generate_pass()
+if __name__ == "__main__":
+    generate_pass()
 
